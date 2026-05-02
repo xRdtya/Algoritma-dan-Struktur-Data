@@ -136,7 +136,7 @@ int main ()
         } while (pil<7);
     } else {
         cout<<"\nTERIMA KASIH"<<endl;
-        cout<<"Program was made by Tysa Luthfia (2510817220019)."<<endl;
+        cout<<"Program was made by Noufal Raditya Wardana (2510817110008)."<<endl;
     }
 }
 
